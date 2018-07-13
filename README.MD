@@ -2,7 +2,7 @@
 
 Bonjour,
 
-je suis tres content que vous allez lire mes codes.
+je suis trés content que vous allez lire mes codes.
 Laissez-moi de vous presenter mon programme.
 
 C'est un exemple tres simple de utilier de engin pour generer un schema et des fonction resolver. 
