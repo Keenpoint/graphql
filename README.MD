@@ -22,7 +22,7 @@ Pour lancer le test, typer l'instruction dans terminal:
 
     yarn test 
 
-Pour lancer le server, tyoer l'instruction dans terminal:
+Pour lancer le server, typer l'instruction dans terminal:
 
     node start.js   
 Dans le navigateur de web, tu a besoin de typer:
