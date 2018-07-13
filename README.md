@@ -17,3 +17,21 @@ Ces bibliotheque ne sont pas nessesaire, mais ils peuvent simplifier mon travail
 En fait, just la biblitheque de graphql est suiffisant fortement. 
 S'il vous voulez travail sur ca. 
 Je vous conseiller de lire de docs des bibliothques que j'ai utilise.
+
+Pour lancer le test, typer l'instruction dans terminal:
+
+    yarn run jest --detectOpenHandles graphql.test.js 
+
+Pour lancer le server, tyoer l'instruction dans terminal:
+
+    node start.js   
+Dans le navigateur de web, tu a besoin de typer:
+
+    http://localhost: `port` /graphiql
+    
+pour instant le port est 3000
+
+
+Le lien de graphql:
+    
+    https://graphql.org/learn/
