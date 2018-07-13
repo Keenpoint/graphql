@@ -20,7 +20,7 @@ Je vous conseiller de lire de docs des bibliothques que j'ai utilise.
 
 Pour lancer le test, typer l'instruction dans terminal:
 
-    yarn run jest --detectOpenHandles graphql.test.js 
+    yarn test 
 
 Pour lancer le server, tyoer l'instruction dans terminal:
 
