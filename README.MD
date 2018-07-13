@@ -2,7 +2,7 @@
 
 Bonjour,
 
-je suis tres content que vous allez lire mes codes.
+je suis trés content que vous allez lire mes codes.
 Laissez-moi de vous presenter mon programme.
 
 C'est un exemple tres simple de utilier de engin pour generer un schema et des fonction resolver. 
@@ -20,7 +20,7 @@ Je vous conseiller de lire de docs des bibliothques que j'ai utilise.
 
 Pour lancer le test, typer l'instruction dans terminal:
 
-    yarn run jest --detectOpenHandles graphql.test.js 
+    yarn test 
 
 Pour lancer le server, tyoer l'instruction dans terminal:
 
